@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.24)  30 MAR 2024 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.24)  31 MAR 2024 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1374,14 +1374,17 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 7
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `eq:collinear' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 7.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 7.
-
-(/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 7.
@@ -1532,7 +1535,7 @@ Package pdftex.def Info: figs/logo.jpg  used on input line 36.
 \openout6 = `main.toc'.
 
  [2] (./chapters/trig/tri_geo_baudh.tex
-(./figs/triangle/tri_baudh.tex
+(./figs/trig/tri_baudh.tex
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 26
 .
 
@@ -1598,12 +1601,16 @@ Overfull \hbox (2.47339pt too wide) detected at line 35
 []
  []
 
-) (./chapters/coord/vector.tex (./figs/coord/tri_alt.tex)
-(./figs/triangle/tri_cosine_formula.tex) [10]
+) (./chapters/coord/vector.tex (./figs/coord/tri_line.tex)
+(./figs/coord/tri_alt.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(./chapters/trig/trig_id.tex [11]
+ [10]
+(./figs/triangle/tri_cosine_formula.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11])
+(./chapters/trig/trig_id.tex
 Overfull \hbox (2.22035pt too wide) detected at line 70
 []
  []
@@ -1618,19 +1625,24 @@ Overfull \hbox (3.18922pt too wide) detected at line 120
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [12]
-(./main.aux)
+ [12])
+[13
+
+] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 00A91FEEF2165229E2BA1816FCC95C8E;1978.
+(rerunfilecheck)             Checksum: 4CC7E0A28BE7B816BCD530933CFA530E;1978.
  ) 
 Here is how much of TeX's memory you used:
- 52235 strings out of 476091
- 1234547 string characters out of 5794081
+ 52270 strings out of 476091
+ 1235122 string characters out of 5794081
  1910330 words of memory out of 5000000
- 71424 multiletter control sequences out of 15000+600000
+ 71442 multiletter control sequences out of 15000+600000
  587184 words of font info for 186 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 109i,15n,107p,1189b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,15n,107p,1189b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
@@ -1641,10 +1653,10 @@ are/texlive/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on main.pdf (12 pages, 180285 bytes).
+Output written on main.pdf (13 pages, 183119 bytes).
 PDF statistics:
- 718 PDF objects out of 1000 (max. 8388607)
- 641 compressed objects within 7 object streams
- 332 named destinations out of 1000 (max. 500000)
+ 740 PDF objects out of 1000 (max. 8388607)
+ 662 compressed objects within 7 object streams
+ 346 named destinations out of 1000 (max. 500000)
  122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
