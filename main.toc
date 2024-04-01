@@ -8,6 +8,5 @@
 \contentsline {section}{\numberline {8}Tangent}{8}{section.8}%
 \contentsline {section}{Appendix\nobreakspace A: Ratios}{9}{section*.17}%
 \contentsline {section}{Appendix\nobreakspace B: Vectors}{10}{section*.19}%
-\contentsline {section}{Appendix\nobreakspace C: Matrices: Cosine Formula}{11}{section*.22}%
-\contentsline {section}{Appendix\nobreakspace D: Collinear Points}{12}{section*.24}%
-\contentsline {section}{Appendix\nobreakspace E: Identities}{12}{section*.25}%
+\contentsline {section}{Appendix\nobreakspace C: Matrices: Cosine Formula}{10}{section*.21}%
+\contentsline {section}{Appendix\nobreakspace D: Identities}{11}{section*.23}%

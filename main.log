@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.24)  31 MAR 2024 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.24)  1 APR 2024 07:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1374,17 +1374,14 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 7
 .
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
-) (./main.aux
-
-LaTeX Warning: Label `eq:collinear' multiply defined.
-
-)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 7.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 7.
- (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 7.
@@ -1522,7 +1519,7 @@ Package hyperref Info: Link coloring OFF on input line 7.
 \openout5 = `main.out'.
 
 \c@lstlisting=\count388
-<figs/logo.jpg, id=59, 642.4pt x 642.4pt>
+<figs/logo.jpg, id=55, 642.4pt x 642.4pt>
 File: figs/logo.jpg Graphic file (type jpg)
 <use figs/logo.jpg>
 Package pdftex.def Info: figs/logo.jpg  used on input line 36.
@@ -1602,44 +1599,36 @@ Overfull \hbox (2.47339pt too wide) detected at line 35
  []
 
 ) (./chapters/coord/vector.tex (./figs/coord/tri_line.tex)
-(./figs/coord/tri_alt.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
 (./figs/triangle/tri_cosine_formula.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11])
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
 (./chapters/trig/trig_id.tex
-Overfull \hbox (2.22035pt too wide) detected at line 70
+Overfull \hbox (2.22035pt too wide) detected at line 43
 []
  []
 
 
-Overfull \hbox (3.18922pt too wide) detected at line 120
+Overfull \hbox (3.18922pt too wide) detected at line 93
  []$[]   [] [] [] \OML/txmi/m/it/10 ^^R[] \OT1/txr/m/n/10 = [] \OML/txmi/m/it/1
 0 ^^R[] [] ^^R[] [] ^^R[] \OT1/txr/m/n/10 + [] \OML/txmi/m/it/10 ^^R[] [][] ^^R
 []$ []  
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12])
-[13
+[11]) [12
 
 ] (./main.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4CC7E0A28BE7B816BCD530933CFA530E;1978.
+(rerunfilecheck)             Checksum: 49CC4E8F20A6924995112189ED2DE5A0;1783.
  ) 
 Here is how much of TeX's memory you used:
- 52270 strings out of 476091
- 1235122 string characters out of 5794081
+ 52221 strings out of 476091
+ 1234489 string characters out of 5794081
  1910330 words of memory out of 5000000
- 71442 multiletter control sequences out of 15000+600000
+ 71431 multiletter control sequences out of 15000+600000
  587184 words of font info for 186 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  109i,15n,107p,1189b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1653,10 +1642,10 @@ are/texlive/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on main.pdf (13 pages, 183119 bytes).
+Output written on main.pdf (12 pages, 178016 bytes).
 PDF statistics:
- 740 PDF objects out of 1000 (max. 8388607)
- 662 compressed objects within 7 object streams
- 346 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 680 PDF objects out of 1000 (max. 8388607)
+ 603 compressed objects within 7 object streams
+ 311 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
