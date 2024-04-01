@@ -7,6 +7,6 @@
 \contentsline {section}{\numberline {7}Circumcircle: Circle Equation}{7}{section.7}%
 \contentsline {section}{\numberline {8}Tangent}{8}{section.8}%
 \contentsline {section}{Appendix\nobreakspace A: Ratios}{9}{section*.17}%
-\contentsline {section}{Appendix\nobreakspace B: Vectors}{10}{section*.19}%
-\contentsline {section}{Appendix\nobreakspace C: Matrices: Cosine Formula}{10}{section*.21}%
-\contentsline {section}{Appendix\nobreakspace D: Identities}{11}{section*.23}%
+\contentsline {section}{Appendix\nobreakspace B: Collinear Points}{10}{section*.19}%
+\contentsline {section}{Appendix\nobreakspace C: Cosine Formula}{10}{section*.21}%
+\contentsline {section}{Appendix\nobreakspace D: Trigonometric Identities}{11}{section*.23}%

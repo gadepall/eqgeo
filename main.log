@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.24)  1 APR 2024 07:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.3.24)  1 APR 2024 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1622,7 +1622,7 @@ Overfull \hbox (3.18922pt too wide) detected at line 93
 
 ] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 49CC4E8F20A6924995112189ED2DE5A0;1783.
+(rerunfilecheck)             Checksum: 89B23D26B0D31E23677E8D12BEFFCD98;1851.
  ) 
 Here is how much of TeX's memory you used:
  52221 strings out of 476091
@@ -1642,7 +1642,7 @@ are/texlive/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on main.pdf (12 pages, 178016 bytes).
+Output written on main.pdf (12 pages, 177940 bytes).
 PDF statistics:
  680 PDF objects out of 1000 (max. 8388607)
  603 compressed objects within 7 object streams
