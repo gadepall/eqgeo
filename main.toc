@@ -3,10 +3,9 @@
 \contentsline {section}{\numberline {3}Altitudes of a Triangle}{4}{section.3}%
 \contentsline {section}{\numberline {4}Median}{5}{section.4}%
 \contentsline {section}{\numberline {5}Angle Bisectors}{6}{section.5}%
-\contentsline {section}{\numberline {6}Perpendicular Bisectors}{6}{section.6}%
+\contentsline {section}{\numberline {6}Perpendicular Bisectors}{7}{section.6}%
 \contentsline {section}{\numberline {7}Circumcircle: Circle Equation}{7}{section.7}%
 \contentsline {section}{\numberline {8}Tangent}{8}{section.8}%
-\contentsline {section}{Appendix\nobreakspace A: Ratios}{9}{section*.17}%
-\contentsline {section}{Appendix\nobreakspace B: Collinear Points}{10}{section*.19}%
-\contentsline {section}{Appendix\nobreakspace C: Cosine Formula}{10}{section*.21}%
-\contentsline {section}{Appendix\nobreakspace D: Trigonometric Identities}{11}{section*.23}%
+\contentsline {section}{Appendix\nobreakspace A: Collinear Points}{9}{section*.17}%
+\contentsline {section}{Appendix\nobreakspace B: Cosine Formula}{10}{section*.19}%
+\contentsline {section}{Appendix\nobreakspace C: Trigonometric Identities}{11}{section*.21}%

@@ -9,7 +9,30 @@ Use Fig. \ref{fig:tri_baudh} for all problems in this section.
 \renewcommand{\theequation}{\theenumi}
 \begin{enumerate}[label=\thesection.\arabic*.,ref=\thesection.\theenumi]
 \numberwithin{equation}{enumi}
-
+\item
+	For simplicity, let the greek letter $\theta = \angle C$.  We have the following definitions.
+\begin{equation}
+\label{eq:tri_trig_defs}
+\begin{matrix}
+	\sin \theta = \frac{c}{b} & 	\cos \theta = \frac{a}{b} \\
+	\tan \theta = \frac{c}{a} & \cot \theta = \frac{1}{\tan \theta} \\
+	\csc \theta = \frac{1}{\sin \theta} & \sec \theta = \frac{1}{\cos \theta}
+	\end{matrix}
+\end{equation}
+%
+\item  Show that
+	\begin{equation}
+	\cos \theta = \sin \brak{90\degree - \theta}
+	\label{eq:tri_baudh_comp}	
+	\end{equation}
+\solution From \eqref{eq:tri_trig_defs},
+%
+\begin{align}
+\label{eq:tri_90-ang}
+\cos \angle BAC = \cos \alpha =	\cos \brak{90\degree-\theta} = \frac{c}{b} 
+%\\
+= \sin \angle ABC = \sin \theta
+\end{align}
 %
 \item
 Show that 
