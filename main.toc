@@ -7,9 +7,9 @@
 \contentsline {section}{\numberline {7}Circumcircle: Circle Equation}{7}{section.7}%
 \contentsline {section}{\numberline {8}Tangent}{8}{section.8}%
 \contentsline {section}{\numberline {9}Triangle}{9}{section.9}%
-\contentsline {section}{\numberline {10}Quadrilateral}{12}{section.10}%
-\contentsline {section}{\numberline {11}Circle}{14}{section.11}%
-\contentsline {section}{\numberline {12}Miscellaneous }{16}{section.12}%
-\contentsline {section}{Appendix\nobreakspace A: Collinear Points}{20}{section*.17}%
-\contentsline {section}{Appendix\nobreakspace B: Cosine Formula}{21}{section*.19}%
-\contentsline {section}{Appendix\nobreakspace C: Trigonometric Identities}{21}{section*.21}%
+\contentsline {section}{\numberline {10}Quadrilateral}{14}{section.10}%
+\contentsline {section}{\numberline {11}Circle}{16}{section.11}%
+\contentsline {section}{\numberline {12}Miscellaneous }{17}{section.12}%
+\contentsline {section}{Appendix\nobreakspace A: Collinear Points}{22}{section*.22}%
+\contentsline {section}{Appendix\nobreakspace B: Cosine Formula}{22}{section*.24}%
+\contentsline {section}{Appendix\nobreakspace C: Trigonometric Identities}{23}{section*.26}%
